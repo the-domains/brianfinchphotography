@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I've been doing more commercial and editorial photography work lately, and enjoying it a lot. Here's some images focusing on sports apparel, yoga, and the outdoor lifestyle with @noellecorinne "
-datePublished: '2016-04-24T03:56:15.449Z'
-dateModified: '2016-04-24T03:55:59.919Z'
+datePublished: '2016-04-24T04:00:14.511Z'
+dateModified: '2016-04-24T04:00:14.026Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-editorial-commercial-advertising-photography-hawaii.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-editorial-commercial-advertising-photography-hawaii.md
-published: true
 url: editorial-commercial-advertising-photography-hawaii/index.html
 _type: Article
 
