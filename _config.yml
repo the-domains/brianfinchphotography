@@ -1,7 +1,7 @@
 name: brianfinchphotography
 favicon: null
-layout_spectrum: 0.2680423161946237
-typography_spectrum: 0.51927
+layout_spectrum: 0.25526
+typography_spectrum: 0.53699
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9097116079647094
+  brandStrength: 0.5
   lightness: 0.12111690454185009
   saturation: 0.8457079769577831
   rhythmicContrast: 0.25
